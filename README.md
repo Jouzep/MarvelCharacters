@@ -7,6 +7,8 @@ The goal of this projet is to create a flutter application that show all the mar
 <h2>How to clone the projet</h2>
 
                  git clone git@github.com:Jouzep/MarvelCharacters.git
+<h2>Marvel API key</h2>
+The project need a public and private marvel keys, you can add it in [here](./assets/.env)
 
 <h2>How to run the flutter application</h2>
 
@@ -19,3 +21,4 @@ The goal of this projet is to create a flutter application that show all the mar
                     Please choose one (or "q" to quit): 
                     
                   Choose [2]: Chrome (chrome)
+
