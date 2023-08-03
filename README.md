@@ -1,21 +1,16 @@
-# MarvelCharacters projet
-<h2>Project : </h2>
+# marvel
 
-The goal of this projet is to create a flutter application that show all the marvel's characters with the marvel API.
+A new Flutter project.
 
+## Getting Started
 
-<h2>How to clone the projet</h2>
+This project is a starting point for a Flutter application.
 
-                 git clone git@github.com:Jouzep/MarvelCharacters.git
+A few resources to get you started if this is your first Flutter project:
 
-<h2>How to run the flutter application</h2>
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-                 cd MarvelCharacters
-                 
-                 flutter run
-                    [1]: Windows (windows)
-                    [2]: Chrome (chrome)
-                    [3]: Edge (edge)
-                    Please choose one (or "q" to quit): 
-                    
-                  Choose [2]: Chrome (chrome)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
