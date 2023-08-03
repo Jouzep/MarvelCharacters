@@ -8,7 +8,12 @@ The goal of this projet is to create a flutter application that show all the mar
 
                  git clone git@github.com:Jouzep/MarvelCharacters.git
 <h2>Marvel API key</h2>
-The project need a public and private marvel keys, you can add it in [here](./assets/.env)
+The project needs a public and private marvel keys, you can add it in the [. env] file
+
+[.env]
+
+[.env]:https://github.com/user/repo/blob/branch/other_file.md
+
 
 <h2>How to run the flutter application</h2>
 
