@@ -12,7 +12,7 @@ The project needs a public and private marvel keys, you can add it in the [. env
 
 [.env]
 
-[.env]:https://github.com/user/repo/blob/branch/other_file.md
+[.env]:https://github.com/Jouzep/MarvelCharacters/blob/main/assets/.env
 
 
 <h2>How to run the flutter application</h2>
